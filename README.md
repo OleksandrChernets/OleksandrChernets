@@ -8,7 +8,7 @@
   
 - 🌍  I'm based in Ukraine ✈️ Open to relocate 
 
-- 👨‍💻 See my portfolio at [MyProjects](http://github.com/OleksandrChernets?tab=repositories) 
+- 👨‍💻 See my portfolio at [myProjects](http://github.com/OleksandrChernets?tab=repositories) 
 
 - 📫 How to reach me [it.chernets@gmail.com](mailto:it.chernets@gmail.com)
 
