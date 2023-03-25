@@ -1,4 +1,4 @@
-![MasterHead](https://kept.com.ua/image/22Hr/Purple_Blue_Colorful_Gaming_LinkedIn_Banner.png)
+![MasterHead](https://kept.com.ua/image/1E5L/Purple_Blue_Colorful_Gaming_LinkedIn_Banner.png)
 <h1 align="center">Hi 💥 I'm Alex
 
 <p align="center">
