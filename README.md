@@ -12,7 +12,7 @@
 
 - 📫 How to reach me [it.chernets@gmail.com](mailto:it.chernets@gmail.com)
 
-- 🚀 I'm currently working on [CoachMe](http://github.com/OleksandrChernets/CoachMe)
+- 🚀 I'm currently working on [TwitchUA](https://github.com/OleksandrChernets/TwitchUA)
 
 - 🧠  I'm learning iOS design principles and guidelines
 
